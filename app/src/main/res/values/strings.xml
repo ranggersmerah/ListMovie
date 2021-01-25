@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListMovie</string>
+    <string name="no_data_to_show">No Data To Show</string>
+    <string name="refresh">Refresh</string>
+    <string name="sorry_something_went_wrong">Sorry Something went Wrong</string>
+    <string name="description">Movie</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="title_network_alert">Network Error</string>
+    <string name="message_network_alert">Make sure you are connected to Internet</string>
+    <string name="share_trailer">Share trailer</string>
+</resources>
